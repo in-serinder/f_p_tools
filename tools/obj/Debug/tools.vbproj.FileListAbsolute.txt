@@ -1,0 +1,11 @@
+H:\VB\tools\tools\tools\bin\Debug\tools.exe.config
+H:\VB\tools\tools\tools\bin\Debug\tools.exe
+H:\VB\tools\tools\tools\bin\Debug\tools.pdb
+H:\VB\tools\tools\tools\bin\Debug\tools.xml
+H:\VB\tools\tools\tools\obj\Debug\tools.mainf.resources
+H:\VB\tools\tools\tools\obj\Debug\tools.Resources.resources
+H:\VB\tools\tools\tools\obj\Debug\tools.vbproj.GenerateResource.Cache
+H:\VB\tools\tools\tools\obj\Debug\tools.exe
+H:\VB\tools\tools\tools\obj\Debug\tools.xml
+H:\VB\tools\tools\tools\obj\Debug\tools.pdb
+H:\VB\tools\tools\tools\obj\Debug\tools.vbprojResolveAssemblyReference.cache
